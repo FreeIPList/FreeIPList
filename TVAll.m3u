@@ -1,5 +1,6 @@
 #EXTM3U url-tvg="https://iptvx.one/EPG"
 
+
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Общие" tvg-id="pervy" tvg-logo="http://loganet.ru/images/channels/First.png", Первый канал (Архив)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD/variant.m3u8
@@ -116,6 +117,7 @@ http://planeta.mediacdn.ru/cdn/tnvplanet/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Общие", CGTN Русский
 http://russian-livews.cgtn.com/hls/LSvexABhNipibK5KRuUkvHZ7220802LSTeze9o8tdFXMHsb1VosgoT220802cd/playlist.m3u8
 
+
 #EXTINF:-1 group-title="Кино" tvg-logo="http://loganet.ru/images/channels/Movie/Black.png", .black
 http://185.50.148.2:7703/Sony_Turbo/index.m3u8
 #EXTINF:-1 group-title="Кино" tvg-logo="http://loganet.ru/images/channels/Movie/Red.png", .red
@@ -175,7 +177,7 @@ http://live-3.otcnet.ru/kinotvplus7/index.m3u8
 #EXTINF:-1 group-title="Кино", Кинокомедия
 http://stream2.cinerama.uz/1232/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Кино", Кинокомедия HD
-rtmp://5.182.229.90//7248
+http://65.21.85.175:8000/play/a01g/index.m3u8?token=livetv
 #EXTINF:-1 group-title="Кино", Киномикс
 http://185.50.148.2:7711/Kinomiks/index.m3u8
 #EXTINF:-1 group-title="Кино", Киномикс HD
@@ -193,7 +195,7 @@ http://88.218.242.237:8000/play/a002
 #EXTINF:-1 group-title="Кино", Киносвидание
 http://86.57.198.251:8181/play/1028/index.m3u8
 #EXTINF:-1 group-title="Кино", Киносвидание HD
-rtmp://5.182.229.90//7245
+https://flussonic.salomtv.uz/Kinosvidanie/video.m3u8
 #EXTINF:-1 group-title="Кино", Киносемья 
 https://stream2.cinerama.uz/1234/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Кино", Киносемья HD
@@ -401,6 +403,7 @@ http://213.226.137.140:81/tl/l319/mpegts
 http://135.181.115.81:8000/play/a01a/index.m3u8?token=livetv
 #EXTINF:-1 group-title="Кино", Viju+ Comedy HD
 http://135.181.115.81:8000/play/a019/index.m3u8?token=livetv
+
 
 #EXTINF:-1 group-title="Детские", В гостях у сказки
 http://109.200.130.123:7537/play/a02m
@@ -1231,6 +1234,7 @@ https://abr.de1se01.v2beat.live/live/live6/chunks.m3u8
 https://132544.edgevideo.ru/streams/132544_713325/1325441080/index.m3u8
 #EXTINF:-1 group-title="Музыка", Zerouno TV Music
 https://5f22d76e220e1.streamlock.net/zerounotvmusic/zerounotvmusic/playlist.m3u8
+
 
 #EXTINF:-1 group-title="Релакс", Релакс
 http://185.57.68.33/232/mpegts
