@@ -40,6 +40,14 @@ http://cdn.adultiptv.net/russian.m3u8
 http://cdn.adultiptv.net/teen.m3u8
 #EXTINF:-1 group-title="Эротика", Adult IPTV Threesome 
 http://cdn.adultiptv.net/threesome.m3u8
+#EXTINF:-1 group-title="Эротика", Exxxxotica
+http://31.148.48.15:80/O-la-la/index.m3u8
+#EXTINF:-1 group-title="Эротика", Porn Classic
+http://200.194.238.229:8383/live/pornclassic/playlist.m3u8
+#EXTINF:-1 group-title="Эротика" tvg-logo="http://wow-model.com/wp-content/uploads/2017/09/visit-x-tv.jpg", Visit-X 
+http://stream.visit-x.tv:1935/vxtv/live_720p/playlist.m3u8
+#EXTINF:-1 group-title="Эротика", Русская ночь
+http://93.189.224.246:52900/play/a00s
 #EXTINF:-1 group-title="Эротика",Anal
 http://cdn.adultiptv.net/anal.m3u8
 #EXTINF:-1 group-title="Эротика", Exxxxotica
@@ -52,8 +60,3 @@ http://200.194.238.229:8383/live/pornclassic/playlist.m3u8
 http://stream.visit-x.tv:1935/vxtv/live_720p/playlist.m3u8
 #EXTINF:-1 group-title="Эротика", Кино 18+
 https://autopilot.catcast.tv/content/40381/index.m3u8
-#EXTINF:-1 group-title="Эротика", Шалун
-http://88.218.242.237:8000/play/a00h
-#EXTINF:-1 group-title="Эротика",EXTASY 4K
-http://146.59.54.163/350/index.m3u8
-
